@@ -1,0 +1,6 @@
+*Invoice generated**
+----------------------------
+products  quantity  Bill 
+----------------------------
+   A      1       100.0
+Total: 100.0(100.0Rs. + 0% GST i.e. 0.0)
